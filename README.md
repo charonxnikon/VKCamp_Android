@@ -1,1 +1,0 @@
-# VKCamp_Android
